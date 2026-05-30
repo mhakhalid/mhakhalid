@@ -1,4 +1,4 @@
-# Muhammad Hamid (Hamid)
+# Hi, I'm Muhammad 👋
 **AI Platform Engineering Lead · Full Stack · Toronto, Canada**
 
 I lead engineering at [HuntigoX](https://huntigox.com) — Canada's first AI-powered anti-fraud employment platform. I started as a product developer. I ended up owning the full stack, leading 25+ engineers across four teams, and holding final merge authority over every line of code that ships to production.
